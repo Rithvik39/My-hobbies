@@ -1,0 +1,28 @@
+body {
+    text-align: center;
+    background: linear-gradient(#0f6dda 0%, #d8e20d 50%, #00ffb1 100%);
+    background-repeat: no-repeat;
+}
+
+.image1 {
+    border-radius: 50%;
+    width: 150px;
+}
+
+h1 {
+    text-shadow: 2px 2px #4dff00;
+    font-size: 20px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18px;
+    text-align: center;
+}
+
+#line {
+    height: 6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
